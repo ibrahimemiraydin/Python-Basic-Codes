@@ -1,2 +1,2 @@
 # python-calısmalarım
-Python'a yeni başlayanlar için python kodlarının yer aldığı çalışmalarım.
+Python'a yeni başlayanlar için python'daki temel kodlarının yer aldığı çalışmalarım.
